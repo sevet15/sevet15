@@ -4,8 +4,6 @@ I’m **Steven**, a tech designer based in **Surabaya, Indonesia**. I bring toge
 
 My work moves between **native Apple experiences and physical brand spaces**—from placing a 3D model at true scale to designing the journey through an exhibition booth. I prototype visually, test in context, and use motion to make interactions clearer.
 
-**Currently:** Product & Motion Designer at **Apple Developer Academy** · Visual Merchandising & Environmental Designer at **Nirwana**.
-
 <br />
 
 ## 01 / Selected work
