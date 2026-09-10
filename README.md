@@ -6,27 +6,6 @@ My work moves between **native Apple experiences and physical brand spaces**—f
 
 <br />
 
-## 01 / Selected work
-
-### Real ini — digital models, real-world scale.
-
-<a href="https://sevetportfolio.vercel.app/work/real-ini">
-  <img src="https://sevetportfolio.vercel.app/images/real-ini-cover.jpg" alt="Real ini on iPad: previewing an orange 3D character in augmented reality at true scale" width="100%" />
-</a>
-
-**Spatial computing · iOS & iPadOS · 2026**
-
-A precision AR visualizer for makers and booth designers. Real ini brings 3D assets into the spaces they’re designed for, helping people check proportions and explore ideas before they’re built.
-
-- **Feel the scale:** live dimensions in centimeters, a haptic snap at 1:1, and a one-tap reset.
-- **Design in context:** surface grounding, one-finger sliding, and scenes with up to four models.
-- **Capture the idea:** adaptive three-point lighting and AR snapshots.
-
-`SwiftUI` `RealityKit` `ARKit` `Reality Composer Pro` `Apple HIG`
-
-**[Explore the case study ↗](https://sevetportfolio.vercel.app/work/real-ini)** &nbsp; · &nbsp; **[View RealityBooth on GitHub ↗](https://github.com/sevet15/RealityBooth)**
-
-<br />
 
 <table>
 <tr>
