@@ -1,16 +1,3 @@
-<a href="https://sevetportfolio.vercel.app">
-  <img src="assets/header.svg" alt="Steven Valentino — Tech designer. Digital experiences. Physical possibilities." width="100%" />
-</a>
-
-<p align="center">
-  <a href="https://sevetportfolio.vercel.app"><b>Explore my portfolio ↗</b></a> &nbsp; / &nbsp;
-  <a href="https://github.com/sevet15/RealityBooth">Featured repository</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/steven-v-b006a0200/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:stvalentino999@gmail.com">Let’s talk</a>
-</p>
-
-<br />
-
 ### A designer who builds the idea.
 
 I’m **Steven**, a tech designer based in **Surabaya, Indonesia**. I bring together spatial design, UI/UX, motion, and 3D to shape how people move, interact, and connect with an idea.
